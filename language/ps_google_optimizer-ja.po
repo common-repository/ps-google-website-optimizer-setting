@@ -1,0 +1,297 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ps google optimizer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-01-21 20:16+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Kazuyuki Koshiba\n"
+"Language-Team: Prime Strategy Co.,Ltd. \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Japanese\n"
+"X-Poedit-Country: JAPAN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_c;_e\n"
+"X-Poedit-SearchPath-0: ps_google_optimizer\n"
+
+#: ps_google_optimizer.php1
+msgid "please input"
+msgstr "入力してください。"
+
+#: ps_google_optimizer.php2
+msgid "not correct form"
+msgstr "正しい入力形式ではありません。"
+
+#: ps_google_optimizer.php3
+msgid "The URL has already been registered."
+msgstr "そのURLは既に登録されています。"
+
+#: ps_google_optimizer.php4
+msgid "Please input a required item. Please input it correctly."
+msgstr "必須項目は必ず入力してください。<br />正しい形式で入力されていない項目があります。正しい形式で入力してください。"
+
+#: ps_google_optimizer.php5
+msgid "The settings of Ps google website optimizer has changed successfully."
+msgstr "Ps google website optimizerの設定を変更しました。"
+
+#: ps_google_optimizer.php6
+msgid "The settings has not been changed. There were no changes or failed to update the data base."
+msgstr "設定は変更されていません。変更がなかったか、データベースのアップデートに失敗いたしました。"
+
+#: ps_google_optimizer.php7
+msgid "The variation page of Ps google website optimizer has added successfully."
+msgstr "Ps google website optimizerのパターンページを追加しました。"
+
+#: ps_google_optimizer.php8
+msgid "Failed to add the variation page of Ps google website optimizer."
+msgstr "Ps google website optimizerのパターンページの追加に失敗しました。"
+
+#: ps_google_optimizer.php9
+msgid "The variation page of Ps google website optimizer has changed successfully."
+msgstr "Ps google website optimizerのパターンページを変更しました。"
+
+#: ps_google_optimizer.php10
+msgid "Failed to change the variation page of Ps google website optimizer."
+msgstr "Ps google website optimizerのパターンページの変更に失敗しました。"
+
+#: ps_google_optimizer.php11
+msgid "It succeeded in import. "
+msgstr "インポートを実行しました。"
+
+#: ps_google_optimizer.php12
+msgid "It failed in import. "
+msgstr "インポートに失敗しました。"
+
+#: ps_google_optimizer.php13
+msgid "The variation page of Ps google website optimizer has deleted successfully."
+msgstr "Ps google website optimizerのパターンページを削除しました。"
+
+#: ps_google_optimizer.php14
+msgid "Failed to delete the variation page of Ps google website optimizer."
+msgstr "Ps google website optimizerのパターンページの削除に失敗しました。"
+
+#: ps_google_optimizer.php15
+msgid "TEST NAME"
+msgstr "テスト名"
+
+#: ps_google_optimizer.php16
+msgid "ORIGINAL URL"
+msgstr "オリジナルURL"
+
+#: ps_google_optimizer.php17
+msgid "MEMO"
+msgstr "メモ"
+
+#: ps_google_optimizer.php18
+msgid "create a new test"
+msgstr "新規作成"
+
+#: ps_google_optimizer.php19
+msgid "List"
+msgstr "一覧"
+
+#: ps_google_optimizer.php20
+msgid "management of test"
+msgstr "テスト管理ページ"
+
+#: ps_google_optimizer.php21
+msgid "management of variation page"
+msgstr "パターンページ管理"
+
+#: ps_google_optimizer.php22
+msgid "State"
+msgstr "状態"
+
+#: ps_google_optimizer.php23
+msgid "Play"
+msgstr "実行"
+
+#: ps_google_optimizer.php24
+msgid "Stop"
+msgstr "停止"
+
+#: ps_google_optimizer.php25
+msgid "Test Type"
+msgstr "テストタイプ"
+
+#: ps_google_optimizer.php26
+msgid "Test name"
+msgstr "テスト名"
+
+#: ps_google_optimizer.php27
+msgid "Memo of this test"
+msgstr "テストに関するメモ"
+
+#: ps_google_optimizer.php28
+msgid "Original url"
+msgstr "オリジナルURL"
+
+#: ps_google_optimizer.php29
+msgid "Variation page url"
+msgstr "パターンページURL"
+
+#: ps_google_optimizer.php30
+msgid "Conversion page url"
+msgstr "コンバージョンページURL"
+
+#: ps_google_optimizer.php31
+msgid "Control Script"
+msgstr "制御スクリプト"
+
+#: ps_google_optimizer.php32
+msgid "Tracking script"
+msgstr "トラッキングスクリプト"
+
+#: ps_google_optimizer.php33
+msgid "Conversion Script"
+msgstr "コンバージョンスクリプト"
+
+#: ps_google_optimizer.php34
+msgid "Please input absolute path after the site URL. ex)/hoge/hoge.html"
+msgstr "URLはドメインを除いた絶対パスで入力してください。例)/hoge/hoge.html"
+
+#: ps_google_optimizer.php35
+msgid "A/B Experiment"
+msgstr "A/Bテスト"
+
+#: ps_google_optimizer.php36
+msgid "a required item"
+msgstr "必須"
+
+#: ps_google_optimizer.php37
+msgid "Edit"
+msgstr "編集"
+
+#: ps_google_optimizer.php38
+msgid "Save"
+msgstr "保存"
+
+#: ps_google_optimizer.php39
+msgid "create a new variation page"
+msgstr "新規作成"
+
+#: ps_google_optimizer.php40
+msgid "Delete"
+msgstr "削除"
+
+#: ps_google_optimizer.php41
+msgid "Original page URL is not set.<br />Please set original page URL. Afterwards, please set variation page url."
+msgstr "オリジナルページURLが設定されておりません。<br />オリジナルページURLを設定後、再度接続いただきパターンページURLの設定を行ってください。"
+
+#: ps_google_optimizer.php42
+msgid "Please set variation page url."
+msgstr "パターンページの設定を行ってください"
+
+#: ps_google_optimizer.php43
+msgid "delete variation page"
+msgstr "パターンページ削除"
+
+#: ps_google_optimizer.php44
+msgid "stop variation page"
+msgstr "パターンページ停止"
+
+#: ps_google_optimizer.php45
+msgid "start variation page"
+msgstr "パターンページスタート"
+
+#: ps_google_optimizer.php46
+msgid "Start"
+msgstr "スタート"
+
+#: ps_google_optimizer.php47
+msgid "Do you really want to delete this page?"
+msgstr "本当にこのページを削除してもよいですか？"
+
+#: ps_google_optimizer.php48
+msgid "Do you really want to stop this page?"
+msgstr "本当にこのページを停止してもよいですか？"
+
+#: ps_google_optimizer.php49
+msgid "Do you really want to start this page?"
+msgstr "本当にこのページをスタートさせてもよいですか？"
+
+#: ps_google_optimizer.php50
+msgid "Import"
+msgstr "インポート"
+
+#: ps_google_optimizer.php51
+msgid "Page ID of import page"
+msgstr "ページID"
+
+#: ps_google_optimizer.php52
+msgid "Edit of variation page"
+msgstr "パターンページの編集"
+
+#: ps_google_optimizer.php53
+msgid "Variation page name"
+msgstr "パターンページの名前"
+
+#: ps_google_optimizer.php55
+msgid "Content of variation page"
+msgstr "パターンページのコンテンツ"
+
+#: ps_google_optimizer.php56
+msgid "Visual"
+msgstr "ビジュアル"
+
+#: ps_google_optimizer.php57
+msgid "Add Media"
+msgstr "メディアを追加"
+
+#: ps_google_optimizer.php58
+msgid "Add an Image"
+msgstr "画像を追加"
+
+#: ps_google_optimizer.php59
+msgid "Add Video"
+msgstr "ビデオを追加"
+
+#: ps_google_optimizer.php60
+msgid "Add Audio"
+msgstr "音声を追加"
+
+#: ps_google_optimizer.php61
+msgid "Time limit of this page"
+msgstr "期限"
+
+#: ps_google_optimizer.php62
+msgid "Usage"
+msgstr "ご利用方法"
+
+#: ps_google_optimizer.php63
+msgid "Create a new test in list page."
+msgstr "一覧ページからテストを作成します。"
+
+#: ps_google_optimizer.php64
+msgid "Create a variation page in test magement page."
+msgstr "テスト管理ページからパターンページを作成します。"
+
+#: ps_google_optimizer.php65
+msgid "Insert following code in the content area of original url page(or origin page). (<strong>Use HTML mode</strong>)"
+msgstr "オリジナルページのcontent部分、若しくは親ページに、<strong>HTMLモードで</strong>以下のコードを入力します。"
+
+#: ps_google_optimizer.php66
+msgid "Change a state in test magement page."
+msgstr "テスト管理ページから状態を実行に変更します"
+
+#: ps_google_optimizer.php67
+msgid "ex) /hoge/?test ( Please add ? )"
+msgstr "引数（?付き）でページを指定してください。例）/hoge/?test"
+
+#: ps_google_optimizer.php68
+msgid "Original Url is not possible to change again."
+msgstr "一度登録しますと、オリジナルURLは変更することは出来ません。"
+
+#: ps_google_optimizer.php69
+msgid "stop"
+msgstr "停止中"
+
+#: ps_google_optimizer.php70
+msgid "run"
+msgstr "実行中"
+
+#: ps_google_optimizer.php71
+msgid "It succeeded in import."
+msgstr "インポートに成功しました。"
+
